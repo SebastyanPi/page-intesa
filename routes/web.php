@@ -14,7 +14,7 @@ use App\Http\Controllers\PageController;
 |
 */
 
-Route::get('/', function () { return view('welcome'); })->name('pages.welcome');;
+Route::get('/', function () { return view('welcome'); })->name('pages.welcome');
 Route::get('/quienes-somos', [PageController::class, 'Quienes_Somos'])->name('pages.quienes_somos');
 Route::get('/mision-vision', [PageController::class, 'Mision_Vision'])->name('pages.mision_vision');
 Route::get('/legalidad', [PageController::class, 'Legalidad'])->name('pages.legalidad');
