@@ -29,7 +29,7 @@
 
        <!-- Blog Start -->
        <div class="container-fluid pb-5">
-        <div class="container pt-5 py-2">
+        <div class="container pt-2 ">
             <div class="row">
                 <div class="col-lg-12 pt-5">
                     <div class="row pb-3">
