@@ -26,7 +26,7 @@
             <div class="col-lg-9">
                 <nav class="navbar navbar-expand-lg bg-light navbar-light bg-n-verde-09 py-3 py-lg-0 px-0">
                     <a href="" class="text-decoration-none d-block d-lg-none">
-                        <h1 class="m-0">INTESA</h1>
+                        <h1 class="m-0"><img src="{{ $URL }}img/intesa.png" alt="" width="80px"> INTESA</h1>
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
