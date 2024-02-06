@@ -29,7 +29,7 @@
 
                         <h4 class="mt-2">SIET</h4>
                         <p class="text-justify">Código de la Institución: <b> 8052 </b> <br>
-                            Consultar : <a href="https://siet.mineducacion.gov.co/consultasiet/institucion/index.jsp#">https://siet.mineducacion.gov.co/consultasiet/institucion/index.jsp#</a> 
+                            Consultar : <a href="https://siet.mineducacion.gov.co/consultasiet/institucion/index.jsp#"><b>CLICK AQUI</b></a> 
                         </p>
                         <img class="mb-3" src="{{ env('APP_URL') }}img/siet.png" width="50%" alt="">
 
