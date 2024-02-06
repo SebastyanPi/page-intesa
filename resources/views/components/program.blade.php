@@ -54,10 +54,10 @@
                     });
                 </script>
                 
-                <div class="p-3 border-1" >
+                <div class="p-3 border-1 d-none" >
                     <div class="row">
-                        <div class="col-md-3">
-                            <img src="{{ env('APP_URL') }}img/sena.png" width="80%" alt="">
+                        <div class="col-md-3 text-center py-2">
+                            <img src="{{ env('APP_URL') }}img/sena.png" width="100px" alt="">
 
                         </div>
                         <div class="col-md-9">
