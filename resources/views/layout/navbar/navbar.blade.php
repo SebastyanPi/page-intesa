@@ -24,16 +24,16 @@
                 </nav>
             </div>
             <div class="col-lg-9">
-                <nav class="navbar navbar-expand-lg bg-light navbar-light  py-3 py-lg-0 px-0" id="navbarp">
+                <nav class="navbar navbar-expand-lg bg-light navbar-light py-lg-0 py-3 px-0" >
                     <a href="{{ route('pages.welcome') }}" class="text-decoration-none d-block d-lg-none">
                         <h1 class="m-0"><img src="{{ $URL }}img/intesa.png" alt="" width="60px"> INTESA</h1>
-                        <a class="btn bg-gradient-verde-suave text-white mr-3 btn-sm py-2 px-4 ml-auto  d-lg-none" href="https://campus.institutointesa.edu.co/">CAMPUS</a>
+                        <a class="btn bg-n-verde-01 text-white mr-3 btn-sm py-2 px-4 ml-auto d-lg-none" href="https://campus.institutointesa.edu.co/">CAMPUS</a>
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                        <div class="navbar-nav py-0">
+                        <div class="navbar-nav" id="navbarm">
 
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Institucional</a>
@@ -82,6 +82,32 @@
         </div>
     </div>
     
+    <script> 
 
+        var altura = screen.height;
+        var ancho = screen.width;
+
+
+        if(ancho < 600){
+            $("#navbarm").addClass('py-4');
+        }
+
+        $(window).resize(function(){
+        //aqui el codigo que se ejecutara cuando se redimencione la ventana
+            var alto=$(window).height();
+            var ancho=$(window).width();
+
+            console.log(ancho);
+
+            if(ancho < 600){
+               $("#navbarm").addClass('py-4');
+            }else{
+                $("#navbarm").removeClass('py-4');
+            }
+        //alert("alto: "+alto+" ancho:"+ancho);
+        })
+
+        
+    </script>
 
     <!-- Navbar End -->

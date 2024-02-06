@@ -35,6 +35,7 @@
     <link href="{{ $URL }}assets/css/app.css" rel="stylesheet">
 
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 </head>
 
 <body>
@@ -66,7 +67,7 @@
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
     <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
     <script src="{{ $URL }}assets/lib/easing/easing.min.js"></script>
     <script src="{{ $URL }}assets/lib/owlcarousel/owl.carousel.min.js"></script>
