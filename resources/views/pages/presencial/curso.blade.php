@@ -16,7 +16,7 @@
                     <div class="card">
                       <div class="card-header" id="headingOne">
                         <h2 class="mb-0">
-                          <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                          <button class="btn btn-link text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
 
                             <i class="fas fa-bookmark"></i> <b>Certificación en </b> Trazado y Desarrollo para Aislamiento Termicos
                           </button>
@@ -62,7 +62,7 @@
                     <div class="card">
                       <div class="card-header" id="headingTwo">
                         <h2 class="mb-0">
-                          <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                          <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                             <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Instalación de Aislamiento Termicos
                           </button>
                         </h2>
@@ -107,7 +107,7 @@
                       <div class="card">
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
-                            <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                            <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                 <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Recubrimientos Industriales
                             </button>
                           </h2>
@@ -162,7 +162,7 @@
                     <div class="card">
                       <div class="card-header" id="headingThree">
                         <h2 class="mb-0">
-                          <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                          <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Talento Humano
                           </button>
                         </h2>
@@ -218,7 +218,7 @@
                     <div class="card">
                         <div class="card-header" id="headingThree">
                           <h2 class="mb-0">
-                            <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapseThree1" aria-expanded="false" aria-controls="collapseThree">
+                            <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree1" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Ofimatica
                             </button>
                           </h2>
@@ -284,7 +284,7 @@
                     <div class="card">
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
-                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                            <button class="btn btn-link collapsed text-left" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                 <i class="fas fa-bookmark"></i> Curso Operador de Maquinaria Pesada
                             </button>
                           </h2>
@@ -344,7 +344,7 @@
                       <div class="card">
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
-                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                            <button class="btn btn-link text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                               <i class="fas fa-bookmark"></i> Curso de Ingles
                             </button>
                           </h2>
@@ -401,7 +401,7 @@
                     <div class="card">
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
-                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                            <button class="btn btn-link collapsed text-left" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
                             <i class="fas fa-bookmark"></i> Curso de Pedagogia Infantil (Necesidades Especiales)
                             </button>
                           </h2>
