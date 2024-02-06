@@ -25,7 +25,7 @@
             </div>
             <div class="col-lg-9">
                 <nav class="navbar navbar-expand-lg bg-light navbar-light bg-n-verde-09 py-3 py-lg-0 px-0">
-                    <a href="" class="text-decoration-none d-block d-lg-none">
+                    <a href="{{ route('pages.welcome') }}" class="text-decoration-none d-block d-lg-none">
                         <h1 class="m-0"><img src="{{ $URL }}img/intesa.png" alt="" width="60px"> INTESA</h1>
                         <a class="btn bg-gradient-verde-suave text-white mr-3 btn-sm py-2 px-4 ml-auto  d-lg-none" href="https://campus.institutointesa.edu.co/"><i class="fas fa-door-open"></i></a>
                     </a>
