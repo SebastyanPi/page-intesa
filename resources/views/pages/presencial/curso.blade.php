@@ -232,16 +232,7 @@
                                     Un profesional en ofimática se dedica a utilizar y gestionar eficientemente herramientas informáticas y software de oficina para mejorar los procesos y la productividad en un entorno empresarial o de trabajo. 
                                   </span>
                               </p>
-  
-                              <p>
-                                  <b>Niveles : </b>
-                                  <span> <br>
-                                      - Basico <br>
-                                      - Intermedio<br>
-                                      - Avanzado<br>
-                                  </span>
-                              </p>
-  
+
   
                               <p>
                                   <b>Duración : </b>
