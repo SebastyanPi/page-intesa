@@ -29,7 +29,7 @@
                             <p class="text-justify mt-2">
                                 <b>Perfil Profesional : </b>
                                 <span >
-                                    Es un profesional  que se encarga de realizar actividades cotidianas en una oficina, como archivar, realizar todos los trámites que sean necesarios, organizar la agenda y estar atento a todo lo que necesite el gerente administrativo. De igual manera, dependiendo de las condiciones de su contratación este profesional puede ejercer el cargo de asistente contable ayudando en la contabilidad de la empresa o ayudar en el departamento de recursos humanos en la organización de los documentos generados para la contratación de personal.
+                                     Es un profesional que se encarga de diseñar y crear patrones o plantillas que serán utilizados para cortar materiales aislantes térmicos de manera eficiente. Estos materiales se utilizan comúnmente para reducir la transferencia de calor entre dos superficies, mejorando así la eficiencia energética de edificios, equipos y sistemas.
                                 </span>
                             </p>
 
@@ -73,7 +73,7 @@
                             <p class="text-justify mt-2">
                                 <b>Perfil Profesional : </b>
                                 <span >
-                                    Es un profesional encargado de la realización de diversas funciones relacionadas con la gestión contable de una empresa. Estas incluyen el procesamiento de facturas, el seguimiento de ingresos y gastos, y la elaboración de informes contables.
+                                    Este certificado está dirigido a profesionales del mundo de la instalación y mantenimiento, más concretamente a aquellos vinculados con la instalación y mantenimiento de sistemas de aislamiento térmico, dentro del área profesional de montaje y mantenimiento de instalaciones, y a todas aquellas personas interesadas en adquirir conocimientos relacionados con las técnicas de montaje de sistemas de aislamiento, así como con la realización de las mismas con las debidas garantías para la salud.
                                 </span>
                             </p>
 
@@ -118,7 +118,7 @@
                                 <p class="text-justify mt-2">
                                     <b>Perfil Profesional : </b>
                                     <span >
-                                        Inspeccionan, diagnostican, reparan, prueban y dan mantenimiento a los sistemas y componentes mecánicos y electrónicos de automóviles livianos, buses y camiones. Están empleados por compañías ensambladoras de vehículos, concesionarios, talleres de servicio automotor o trabajan de forma independiente.
+                                        Es un profesional que se encarga del proceso de aplicar capas protectoras o recubrimientos a sustratos metálicos o no metálicos para proporcionar resistencia a la corrosión, protección contra agentes químicos, mejora estética, resistencia a la abrasión, entre otros beneficios. Estos recubrimientos se utilizan en una variedad de industrias, como la manufactura, la construcción, el petróleo y gas, la automotriz, entre otras.
                                     </span>
                                 </p>
 
@@ -173,7 +173,7 @@
                             <p class="text-justify mt-2">
                                 <b>Perfil Profesional : </b>
                                 <span >
-                                    Es un profesional con criterio tecnológico y humanista con capacidad de trabajo en equipo, para el desarrollo de aplicaciones en un ambiente específico y realización de mantenimiento preventivo y correctivo de software.
+                                    El profesional en talento humano, desempeña un papel crucial en las organizaciones al gestionar diversas funciones relacionadas con el personal. Esto incluye la contratación y selección de empleados, el desarrollo y la capacitación continua, la evaluación del desempeño, la gestión del rendimiento y la administración de aspectos como la compensación y los beneficios. El talento humano trabaja para cultivar un entorno laboral positivo, asegurar el crecimiento y desarrollo de los empleados, y contribuir al éxito general de la empresa a través de la gestión efectiva de su capital humano.
                                 </span>
                             </p>
 
@@ -229,7 +229,7 @@
                               <p class="text-justify mt-2">
                                   <b>Perfil Profesional : </b>
                                   <span >
-                                      Es un profesional con criterio tecnológico y humanista con capacidad de trabajo en equipo, para el desarrollo de aplicaciones en un ambiente específico y realización de mantenimiento preventivo y correctivo de software.
+                                    Un profesional en ofimática se dedica a utilizar y gestionar eficientemente herramientas informáticas y software de oficina para mejorar los procesos y la productividad en un entorno empresarial o de trabajo. 
                                   </span>
                               </p>
   
