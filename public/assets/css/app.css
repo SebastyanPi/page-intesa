@@ -1,0 +1,51 @@
+
+.bg-gradient-verde-orange{
+    background: rgb(44,150,5);
+background: linear-gradient(90deg, rgba(44,150,5,1) 0%, rgba(33,121,9,1) 35%, rgba(224,158,0,1) 100%);
+color: #fff !important;
+}
+
+.bg-gradient-verde-suave{
+    background: rgb(127,200,14);
+background: linear-gradient(90deg, rgba(127,200,14,1) 0%, rgba(43,196,6,1) 35%, rgba(54,170,4,1) 100%);
+}
+
+.bg-n-verde-01{
+    background-color: rgb(25, 187, 38) !important;
+   
+}
+
+.bg-n-verde-02{
+    background-color: rgb(87, 195, 96) !important;
+   
+}
+
+.bg-n-verde-09{
+    background-color: rgb(239, 252, 240) !important;
+   
+}
+
+
+.bg-n-gray-01{
+    background-color: rgb(222, 222, 222) !important;
+   
+}
+
+.border-1{
+    border: 1px solid #e3e0e0 !important;
+} 
+
+
+
+.text-white{
+    color: #fff !important;
+}
+
+.nav-n-option{
+    cursor: pointer;
+    color: #000 !important;
+}
+
+.nav-n-option:hover{
+    font-weight: 300;
+}
