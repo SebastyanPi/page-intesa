@@ -1,7 +1,7 @@
 
     <!-- Navbar Start -->
     <div class="container-fluid ">
-        <div class="row border-top px-xl-5 bg-n-verde-09">
+        <div class="row border-top bg-light px-xl-5 " id="navbarp1">
             <div class="col-lg-3 d-none d-lg-block">
                 <a class="d-flex align-items-center justify-content-between bg-n-verde-01 w-100 text-decoration-none" data-toggle="collapse" href="#navbar-vertical" style="height: 67px; padding: 0 30px;">
                     <h5 class=" m-0 text-white"><i class="fa fa-book-open mr-2"></i>Nuestros Valores</h5>
@@ -24,10 +24,10 @@
                 </nav>
             </div>
             <div class="col-lg-9">
-                <nav class="navbar navbar-expand-lg bg-light navbar-light bg-n-verde-09 py-3 py-lg-0 px-0">
+                <nav class="navbar navbar-expand-lg bg-light navbar-light  py-3 py-lg-0 px-0" id="navbarp">
                     <a href="{{ route('pages.welcome') }}" class="text-decoration-none d-block d-lg-none">
                         <h1 class="m-0"><img src="{{ $URL }}img/intesa.png" alt="" width="60px"> INTESA</h1>
-                        <a class="btn bg-gradient-verde-suave text-white mr-3 btn-sm py-2 px-4 ml-auto  d-lg-none" href="https://campus.institutointesa.edu.co/"><i class="fas fa-door-open"></i></a>
+                        <a class="btn bg-gradient-verde-suave text-white mr-3 btn-sm py-2 px-4 ml-auto  d-lg-none" href="https://campus.institutointesa.edu.co/">CAMPUS</a>
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
@@ -81,4 +81,7 @@
             </div>
         </div>
     </div>
+    
+
+
     <!-- Navbar End -->

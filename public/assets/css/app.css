@@ -40,6 +40,9 @@ background: linear-gradient(90deg, rgba(127,200,14,1) 0%, rgba(43,196,6,1) 35%, 
 .text-white{
     color: #fff !important;
 }
+.bg-white{
+    color: #fff !important;
+}
 
 .nav-n-option{
     cursor: pointer;
