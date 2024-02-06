@@ -7,6 +7,10 @@ use Illuminate\Http\Request;
 class PageController extends Controller
 {
 
+    public function Welcome(){
+        return view('welcome');
+    }
+
     public function Quienes_Somos(){
         return view('pages.quienes-somos');
     }
