@@ -8,7 +8,8 @@
 </head>
 <body>
     <h2>Contactar AHORA!</h2>
-    <h4>Nombre Completo : {{ $name }} {{ $lastname  }}</h4>
+    <h4>Nombres : {{ $name }} </h4>
+    <h4>Apellidos : {{ $lastname }}</h4>
     <h4>Correo Electronico : {{ $email }}</h4>
     <h4>Telefono : {{ $phone }}</h4>
     <h4>Mensaje : {{ $message }}</h4>
