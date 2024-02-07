@@ -33,14 +33,17 @@
         <div class="col-lg-5 col-md-12 mb-5">
 
             <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Solicita Información</h5>
-            <p>SI deseas conocer mas sobre nosotros, sobre nuetros programas tecnicos laboras, puedes enviar escriber tu correo y nosotros te enviaremos mayor información.</p>
+            <p>SI deseas conocer mas sobre nosotros, sobre nuetros programas tecnicos laboras, puedes enviar escriber tu numero de <b> WhatsApp</b> y nosotros te enviaremos mayor información.</p>
             <div class="w-100">
-                <div class="input-group">
-                    <input type="text" class="form-control " style="padding: 30px;" placeholder="Correo Electronico">
-                    <div class="input-group-append">
-                        <button class="btn btn-primary px-4"><i class="fas fa-paper-plane"></i> Enviar</button>
+                <form action="{{ route('pages.whatsapp') }}" method="POST">
+                    @csrf
+                    <div class="input-group">
+                        <input type="number" name="phone" class="form-control " style="padding: 30px;" placeholder="WhatsApp">
+                        <div class="input-group-append">
+                            <button type="submit" class="btn btn-primary px-4"><i class="fab fa-whatsapp"></i> Enviar</button>
+                        </div>
                     </div>
-                </div>
+                </form>
             </div>
         </div>
     </div>

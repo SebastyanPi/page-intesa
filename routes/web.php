@@ -15,6 +15,7 @@ use App\Http\Controllers\InterestedController;
 */
 
 Route::get('/', [PageController::class, 'Welcome'])->name('pages.welcome');
+Route::post('/whatsapp/info', [InterestedController::class, 'WhatsApp'])->name('pages.whatsapp');
 Route::get('/quienes-somos', [PageController::class, 'Quienes_Somos'])->name('pages.quienes_somos');
 Route::get('/mision-vision', [PageController::class, 'Mision_Vision'])->name('pages.mision_vision');
 Route::get('/legalidad', [PageController::class, 'Legalidad'])->name('pages.legalidad');
