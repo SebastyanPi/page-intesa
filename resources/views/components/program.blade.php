@@ -53,19 +53,11 @@
                         miVideo.muted = false;
                     });
                 </script>
-                
-                <div class="p-3 border-1 d-none" >
-                    <div class="row">
-                        <div class="col-md-3 text-center py-2">
-                            <img src="{{ env('APP_URL') }}img/sena.png" width="100px" alt="">
 
-                        </div>
-                        <div class="col-md-9">
-                            <h4 class="text-dark">Contrato de Aprendizaje SENA</h4>
-                            <p class="text-dark text-justify"> Este programa cuenta con resolución SENA para realizar practicas bajo Contrato de Aprendizaje.</p>
-                        </div>
-                    </div>
-                </div>
+
+                {{ $sena }}
+                
+               
 
                 <div class="mt-5">
                     <h5 class="text-dark  "> <b><i class="fas fa-coins"></i> Financiación directa solo con la Cedula</b></h5>

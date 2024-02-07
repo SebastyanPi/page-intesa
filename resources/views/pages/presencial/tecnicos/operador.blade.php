@@ -42,6 +42,21 @@
 
     @endslot
 
+    @slot('sena')
+    <div class="p-3 border-1" >
+        <div class="row">
+            <div class="col-md-3 text-center py-2">
+                <img src="{{ env('APP_URL') }}img/sena.png" width="100px" alt="">
+
+            </div>
+            <div class="col-md-9">
+                <h4 class="text-dark">Contrato de Aprendizaje SENA</h4>
+                <p class="text-dark text-justify"> Este programa cuenta con resolución SENA para realizar practicas bajo Contrato de Aprendizaje.</p>
+            </div>
+        </div>
+    </div>
+    @endslot
+
     @slot('modulos')
 
         <ul>    

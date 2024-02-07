@@ -53,6 +53,24 @@
 
     @yield('content')
 
+    <div class="ventanaLoad d-none" id="loadc">
+        <span class="loader">
+                
+        </span>
+    </div>
+
+    @if (session('success'))
+        <div class="messageCenter">
+            <div class="card-n text-center">
+                <img src="{{ env('APP_URL')}}img/intesa.png" class="py-2" width="30%" alt="">
+                <p>
+                    En minutos nos comunicaremos contigo!
+                </p>
+                <button class="btn btn-light btClose"><i class="far fa-smile-wink"></i> OK Gracias!</button>
+            </div>
+        </div>
+    @endif
+    
 
     <div class="container-fluid bg-n-verde-09 text-dark border-top py-4 px-sm-3 px-md-5" style="border-color: rgba(256, 256, 256, .1) !important;">
         <div class="row">
@@ -84,6 +102,19 @@
 
     <!-- Template Javascript -->
     <script src="{{ $URL }}assets/js/main.js"></script>
+
+
+    
+        <script>
+            $(".activeload").click(function(){
+                $("#loadc").removeClass('d-none');
+            });
+
+            $(".btClose").click(function(){
+                $(".messageCenter").addClass('d-none');
+            });
+        </script>
+
 </body>
 
 </html>

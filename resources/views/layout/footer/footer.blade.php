@@ -40,7 +40,7 @@
                     <div class="input-group">
                         <input type="number" name="phone" class="form-control " style="padding: 30px;" placeholder="WhatsApp">
                         <div class="input-group-append">
-                            <button type="submit" class="btn btn-primary px-4"><i class="fab fa-whatsapp"></i> Enviar</button>
+                            <button type="submit" class="btn btn-primary px-4 activeload"><i class="fab fa-whatsapp"></i> Enviar</button>
                         </div>
                     </div>
                 </form>

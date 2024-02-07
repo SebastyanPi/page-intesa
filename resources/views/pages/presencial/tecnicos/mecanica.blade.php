@@ -38,6 +38,10 @@
 
     @endslot
 
+    @slot('sena')
+        
+    @endslot
+
     @slot('modulos')
         <ul>
             <li><b>Modulo.</b> Historia De La Mecanica</li>

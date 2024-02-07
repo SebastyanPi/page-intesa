@@ -31,7 +31,7 @@
     </div>
 
     <div class="form-row mt-3">
-        <button type="submit" class="btn btn-secondary btn-block"><i class="fas fa-paper-plane"></i> Enviar</button>                
+        <button type="submit" class="btn btn-secondary btn-block activeload"><i class="fas fa-paper-plane"></i> Enviar</button>                
     </div>
 
   </form>
