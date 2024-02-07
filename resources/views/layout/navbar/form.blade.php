@@ -26,7 +26,7 @@
     <div class="form-row mt-3">
         <div class="col">
           <label for="exampleInputEmail1" class="text-dark">Mensaje *</label>
-          <textarea name="message" placeholder="¿Cuando quieres comenzar a estudiar? ¿Que preguntas o que comentarios tienes?" class="form-control" name="" id="" cols="30" rows="5" ></textarea>
+          <input name="message" class="form-control" type="text">
         </div>                     
     </div>
 

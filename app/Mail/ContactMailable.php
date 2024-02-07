@@ -17,20 +17,20 @@ class ContactMailable extends Mailable
     public $lastname;
     public $email;
     public $phone;
-    public $message;
+    public $question;
 
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($name, $lastname, $email, $phone, $message)
+    public function __construct($name, $lastname, $email, $phone, $question)
     {
         $this->name = $name;
         $this->lastname = $lastname;
         $this->email = $email;
         $this->phone = $phone;
-        $this->message = $message;
+        $this->question = $question;
     }
 
     /**
@@ -41,7 +41,7 @@ class ContactMailable extends Mailable
     public function envelope()
     {
         return new Envelope(
-            subject: 'Usuario Interesado, Contactar Ahora!',
+            subject: '✅ Usuario Interesado, Contactar Ahora!',
         );
     }
 
