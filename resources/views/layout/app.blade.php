@@ -8,14 +8,20 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Intesa- Oficial</title>
+    <title>Instituto INTESA</title>
 
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta  name="keywords" content="Intesa, instituto tecnico del saber, carreras tecnicas, carreras tecnicas barrancabermeja.">
+    <meta  name="keywords" content="Intesa, instituto tecnico del saber, carreras tecnicas, carreras tecnicas barrancabermeja, estudiar virtual, escuela barrancabermeja.">
     <meta name="description" content="Institución tecnico laboral para el trabajo y el desarrollo humano." >
-
-    <meta name=”description” content=”Aquí introduces la meta descripción de la página” />
-
+    <meta name="author" content="Instituto Tecnico Del Saber">
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="INTESA - Barrancabermeja, Santander" />
+    <meta property="og:description" content="Somos una institución para el trabajo y desarrollo humano, con licencia de funcionamiento según resolución 3121 del 14 de diciembre 2015. Ofrecemos capacitación de nivel técnico, diplomados, cursos y seminarios. Nos identificamos con la política de calidad y mejoramiento continuo; brindando así, una formación acorde a las necesidades laborales, conforme a los avances tecnológicos del mercado" />
+    <meta property="og:url" content="https://institutointesa.edu.co/" />
+    <meta property="og:image" content="{{ $URL }}img/intesa.png">
+    <meta property="og:site_name" content="INTESA" />
+    
     <!-- Favicon -->
     <link href="{{ $URL }}img/intesa.png" rel="icon">
 
