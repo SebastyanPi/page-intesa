@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PageController;  
-
+use App\Http\Controllers\InterestedController;  
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -37,3 +37,5 @@ Route::get('/modalidad-virtual', [PageController::class, 'Virtual'])->name('page
 Route::get('/modalidad-virtual/aux-admin', [PageController::class, 'Virtual_auxadmin'])->name('pages.virtual.auxadmin');
 Route::get('/modalidad-virtual/aux-infancia', [PageController::class, 'Virtual_auxinfancia'])->name('pages.virtual.auxinfancia');
 Route::get('/modalidad-virtual/seguridad', [PageController::class, 'Virtual_seguridad'])->name('pages.virtual.seguridad');
+
+Route::post('/inscripcion/post', [InterestedController::class, 'register'])->name('form.inscripcion.post');
