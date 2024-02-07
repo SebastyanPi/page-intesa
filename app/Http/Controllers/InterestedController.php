@@ -19,7 +19,7 @@ class InterestedController extends Controller
             'message' => $request->message
         ]);
 
-        Mail::to('academia@institutointesa.edu.co')->send(new ContactMailable);
+        Mail::to('academia@institutointesa.edu.co')->send(new ContactMailable($request->names, $request->lastname, $request->email, $request->phone,$request->message));
 
         return redirect()->route('pages.contactos');
     }
