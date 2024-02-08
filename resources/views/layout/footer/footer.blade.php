@@ -35,15 +35,34 @@
             <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Solicita Información</h5>
             <p>SI deseas conocer mas sobre nosotros, sobre nuetros programas tecnicos laboras, puedes enviar escriber tu numero de <b> WhatsApp</b> y nosotros te enviaremos mayor información.</p>
             <div class="w-100">
-                <form action="{{ route('pages.whatsapp') }}" method="POST">
+                <form action="{{ route('pages.whatsapp') }}" method="POST" id="formSend">
                     @csrf
                     <div class="input-group">
-                        <input type="number" name="phone" class="form-control " style="padding: 30px;" placeholder="WhatsApp">
+                        <input type="number" name="phone" id="whatsapp" class="form-control " style="padding: 30px;" placeholder="WhatsApp">
                         <div class="input-group-append">
                             <button type="submit" class="btn btn-primary px-4 activeload"><i class="fab fa-whatsapp"></i> Enviar</button>
                         </div>
                     </div>
+                    <div class="alert alert-danger mt-3 d-none" id="alert_role">
+                        <i class="fas fa-exclamation-triangle"></i> Por favor escribe tu numero!
+                      </div>
                 </form>
+
+                <script>
+                    $("#formSend").submit(function(e){
+                        let whatsapp = $("#whatsapp").val();
+                        if(whatsapp == ""){
+                            e.preventDefault();
+                            $("#loadc").addClass('d-none');
+                            $("#alert_role").removeClass('d-none');
+                            setTimeout(() => {
+                                $("#alert_role").addClass('d-none');
+                            }, 1000);
+                        }else{
+                            $("#loadc").removeClass('d-none');
+                        }
+                    });
+                </script>
             </div>
         </div>
     </div>
