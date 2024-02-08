@@ -25,7 +25,7 @@
     @endslot
 
     @slot('video')
-        {{ env('APP_URL') }}video/operador.mp4
+        {{ env('APP_URL') }}video/mecanica.mp4
     @endslot
 
     @slot('duracion')
