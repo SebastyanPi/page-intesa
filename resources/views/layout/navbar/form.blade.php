@@ -6,7 +6,7 @@
         <label for="exampleInputEmail1" class="text-dark d-none">Nombre *</label>
         <input type="text" name="names" id="name" class="form-control" placeholder="Nombres">
       </div>
-      <div class="col-md-12">
+      <div class="col-md-12 mt-3">
         <label for="exampleInputEmail1" class="text-dark d-none">Apellido *</label>
         <input type="text" name="lastname" id="lastname"  class="form-control" placeholder="Apellidos">
       </div>                        
@@ -17,7 +17,7 @@
           <label for="exampleInputEmail1" class="text-dark d-none">Email *</label>
           <input type="text" name="email" id="email" class="form-control" placeholder="Email">
         </div>
-        <div class="col-md-12">
+        <div class="col-md-12 mt-3">
           <label for="exampleInputEmail1" class="text-dark d-none">Telefonos *</label>
           <input type="number" name="phone" id="phone" class="form-control" placeholder="Telefonos">
         </div>                        
