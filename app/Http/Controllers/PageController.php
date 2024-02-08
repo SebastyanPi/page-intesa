@@ -43,6 +43,10 @@ class PageController extends Controller
         
     }
 
+    public function Egresados(){
+        return view('pages.egresados');
+    }
+
     public function Tecnico_Presencial(){
         return view('pages.presencial.tecnico-laboral');
     }

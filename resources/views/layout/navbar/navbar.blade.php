@@ -43,7 +43,7 @@
                                     <a href="{{ route('pages.quienes_somos') }}" class="dropdown-item">¿Quienes Somos?</a>
                                     <a href="{{ route('pages.mision_vision') }}" class="dropdown-item">Misión & Visión</a>
                                     <a href="{{ route('pages.convenios') }}" class="dropdown-item">Convenios</a>
-                                    <a href="single.html" class="dropdown-item d-none">Portafolio</a>
+                                    <a href="{{ route('pages.egresados') }}" class="dropdown-item">Egresados</a>
                                 </div>
                             </div>
 
@@ -66,6 +66,7 @@
                                     <a href="{{ route('pages.presencial.diplomados') }}" class="dropdown-item">Diplomados</a>
                                     <a href="{{ route('pages.presencial.seminarios') }}" class="dropdown-item">Seminarios</a>
                                     <a href="{{ route('pages.presencial.cortos') }}" class="dropdown-item">Cursos Cortos</a>
+                                  
                                 </div>
                             </div>
 
