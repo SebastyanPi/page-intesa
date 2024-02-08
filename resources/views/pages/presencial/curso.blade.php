@@ -14,6 +14,53 @@
             <div class="col-md-12 mb-5">
                 <div class="accordion" id="accordionExample">
                     <div class="card">
+                        <div class="card-header" id="headingOne2">
+                          <h2 class="mb-0">
+                            <button class="btn btn-link text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse17" aria-expanded="true" aria-controls="collapse1">
+  
+                              <i class="fas fa-bookmark"></i> <b>Certificación en </b> Inteligencia de Negocios & Análisis de datos con POWER BI 
+                            </button>
+                          </h2>
+                        </div>
+                    
+                        <div id="collapse17" class="collapse" aria-labelledby="headingOne2" data-parent="#accordionExample">
+                          <div class="card-body">
+                            
+                              <p class="text-justify mt-2">
+                                  <b>Perfil Profesional : </b>
+                                  <span >
+                                       Es un estudiante que adquiera los conocimientos y desarrolle las competencias necesarias en Power BI para que, a partir de diferentes fuentes de datos, genere un modelo de negocios acorde a las necesidades organizacionales, presentando informes profesionales y dinámicos, de una manera fácil y atractiva para facilitar la toma de decisiones.
+                                  </span>
+                              </p>
+  
+                              <p>
+                                  <b>Duración : </b>
+                                  <span>3 Meses</span>
+                              </p>
+  
+                              <p>
+                                  <b>Sistema de Pago : </b>
+                                  <span>De Contado o por cuotas (Mensuales, Quincenales, Semanales)</span>
+                              </p>
+  
+                              <p>
+                                  <b>Requisito : </b>
+                                  <span> <br>
+                                      - Fotocopia de la Cedula <br>
+                                      - Estar cursando secundaria
+                                  </span>
+                              </p>
+  
+                              <p>
+                                  <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                              </p>
+  
+                             
+                          </div>
+                        </div>
+                      </div>
+
+                    <div class="card">
                       <div class="card-header" id="headingOne">
                         <h2 class="mb-0">
                           <button class="btn btn-link text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
