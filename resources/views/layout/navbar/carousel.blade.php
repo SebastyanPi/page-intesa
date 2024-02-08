@@ -13,7 +13,7 @@
                     <div class="p-5" style="width: 100%; max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-md-3">Instituto Tecnico Del Saber</h5>
                         <h2 class="display-3 text-white mb-md-4">INTESA es tu mejor decisión!</h2>
-                        <a href="" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"><i class="fas fa-book-reader"></i> Mas información!</a>
+                        <a href="{{ route('pages.quienes_somos') }}" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"><i class="fas fa-book-reader"></i> Mas información!</a>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                     <div class="p-5" style="width: 100%; max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-md-3">Instituto Tecnico Del Saber</h5>
                         <h1 class="display-3 text-white mb-md-4">INTESA es tu mejor decisión!</h1>
-                        <a href="" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"><i class="fas fa-book-reader"></i> Mas información!</a>
+                        <a href="{{ route('pages.legalidad') }}" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"><i class="fas fa-book-reader"></i> Mas información!</a>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                     <div class="p-5" style="width: 100%; max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-md-3">Instituto Tecnico Del Saber</h5>
                         <h1 class="display-3 text-white mb-md-4">INTESA es tu mejor decisión!</h1>
-                        <a href="" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"><i class="fas fa-book-reader"></i> Mas información!</a>
+                        <a href="{{ route('pages.historia') }}" class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2"><i class="fas fa-book-reader"></i> Mas información!</a>
                     </div>
                 </div>
             </div>
