@@ -29,7 +29,7 @@
                               <p class="text-justify mt-2">
                                   <b>Perfil Profesional : </b>
                                   <span >
-                                       Es un estudiante que adquiera los conocimientos y desarrolle las competencias necesarias en Power BI para que, a partir de diferentes fuentes de datos, genere un modelo de negocios acorde a las necesidades organizacionales, presentando informes profesionales y dinámicos, de una manera fácil y atractiva para facilitar la toma de decisiones.
+                                       Es un estudiante que adquiere los conocimientos fundamentales y desarrolla las competencias necesarias en Power BI para que, a partir de diferentes fuentes de datos, genere un modelo de negocios acorde a las necesidades organizacionales, presentando informes profesionales y dinámicos, de una manera fácil y atractiva para facilitar la toma de decisiones.
                                   </span>
                               </p>
   
