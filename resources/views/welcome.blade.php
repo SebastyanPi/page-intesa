@@ -16,14 +16,14 @@
                                 <div class="team-img position-relative">
                                     <img class="img-fluid" src="{{ env('APP_URL') }}img/enterate/1.jpg" alt="">
                                     <div class="team-social">
-                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.me/573104962668"><i class="fa fa-whatsapp"></i></a>
+                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.link/e97v10"><i class="fa fa-whatsapp"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1" href="https://www.facebook.com/INTESABARRANCABERMEJA2018"><i class="fab fa-facebook-f"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1 d-none" href="#"><i class="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
                                 <div class="bg-secondary p-4">
                                     <h5>Descuento especial!</h5>
-                                    <p class="m-0"><a href="https://wa.me/573104962668" class="btn btn-primary btn-sm">Mas información!</button></a></p>
+                                    <p class="m-0"><a href="https://wa.link/e97v10" class="btn btn-primary btn-sm">Mas información!</button></a></p>
                                 </div>
                             </div>
                         </div>
@@ -32,14 +32,14 @@
                                 <div class="team-img position-relative">
                                     <img class="img-fluid" src="{{ env('APP_URL') }}img/enterate/2.jpg" alt="">
                                     <div class="team-social">
-                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.me/573104962668"><i class="fa fa-whatsapp"></i></a>
+                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.link/zxrzup"><i class="fa fa-whatsapp"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1" href="https://www.facebook.com/INTESABARRANCABERMEJA2018"><i class="fab fa-facebook-f"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1 d-none" href="#"><i class="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
                                 <div class="bg-secondary p-4">
                                     <h5>Garantizamos tus practicas!</h5>
-                                    <p class="m-0"><a href="https://wa.me/573104962668" class="btn btn-primary btn-sm">Mas información!</button></a></p>
+                                    <p class="m-0"><a href="https://wa.link/zxrzup" class="btn btn-primary btn-sm">Mas información!</button></a></p>
                                 </div>
                             </div>
                         </div>
@@ -48,14 +48,14 @@
                                 <div class="team-img position-relative">
                                     <img class="img-fluid" src="{{ env('APP_URL') }}img/enterate/3.jpg" alt="">
                                     <div class="team-social">
-                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.me/573104962668"><i class="fa fa-whatsapp"></i></a>
+                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.link/3duuc2"><i class="fa fa-whatsapp"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1" href="https://www.facebook.com/INTESABARRANCABERMEJA2018"><i class="fab fa-facebook-f"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1 d-none" href="#"><i class="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
                                 <div class="bg-secondary p-4">
                                     <h5>Matriculas Abiertas!</h5>
-                                    <p class="m-0"><a href="https://wa.me/573104962668" class="btn btn-primary btn-sm">Mas información!</button></a></p>
+                                    <p class="m-0"><a href="https://wa.link/3duuc2" class="btn btn-primary btn-sm">Mas información!</button></a></p>
                                 </div>
                             </div>
                         </div>
@@ -64,14 +64,14 @@
                                 <div class="team-img position-relative">
                                     <img class="img-fluid" src="{{ env('APP_URL') }}img/enterate/4.jpg" alt="">
                                     <div class="team-social">
-                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.me/573104962668"><i class="fa fa-whatsapp"></i></a>
+                                        <a class="btn btn-outline-light btn-square mx-1" href="https://wa.link/v3adbz"><i class="fa fa-whatsapp"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1" href="https://www.facebook.com/INTESABARRANCABERMEJA2018"><i class="fab fa-facebook-f"></i></a>
                                         <a class="btn btn-outline-light btn-square mx-1 d-none" href="#"><i class="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
                                 <div class="bg-secondary p-4">
                                     <h5>Descuento por Referidos!</h5>
-                                    <p class="m-0"><a href="https://wa.me/573104962668" class="btn btn-primary btn-sm">Mas información!</button></a></p>
+                                    <p class="m-0"><a href="https://wa.link/v3adbz" class="btn btn-primary btn-sm">Mas información!</button></a></p>
                                 </div>
                             </div>
                         </div>
