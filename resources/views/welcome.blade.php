@@ -8,7 +8,7 @@
                 <div class="container-fluid pt-2 p-lg-0 pb-3">
                     <div class="text-center mb-5">
                         <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Noticias Importantes</h5>
-                        <h1>#Enterate</h1>
+                        <h1>#Entérate</h1>
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-lg-3 text-center team mb-4">
