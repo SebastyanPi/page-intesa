@@ -2,29 +2,29 @@
     <h4 class="text-dark pb-3"> <i class="fas fa-pencil-alt"></i> ¿Quieres mayor información?</h4>
     @csrf
     <div class="form-row">
-      <div class="col">
+      <div class="col-md-12">
         <label for="exampleInputEmail1" class="text-dark d-none">Nombre *</label>
         <input type="text" name="names" id="name" class="form-control" placeholder="Nombres">
       </div>
-      <div class="col">
+      <div class="col-md-12">
         <label for="exampleInputEmail1" class="text-dark d-none">Apellido *</label>
         <input type="text" name="lastname" id="lastname"  class="form-control" placeholder="Apellidos">
       </div>                        
     </div>
 
     <div class="form-row mt-3">
-        <div class="col">
+        <div class="col-md-12">
           <label for="exampleInputEmail1" class="text-dark d-none">Email *</label>
           <input type="text" name="email" id="email" class="form-control" placeholder="Email">
         </div>
-        <div class="col">
+        <div class="col-md-12">
           <label for="exampleInputEmail1" class="text-dark d-none">Telefonos *</label>
           <input type="number" name="phone" id="phone" class="form-control" placeholder="Telefonos">
         </div>                        
     </div>
 
     <div class="form-row mt-3">
-        <div class="col">
+        <div class="col-md-12">
           <label for="exampleInputEmail1" class="text-dark d-none">Mensaje *</label>
           <input name="message" placeholder="Mensaje" id="message" class="form-control" type="text">
         </div>                     
