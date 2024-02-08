@@ -51,6 +51,6 @@
 
   
 
-    @include('layout.footer.footer')
+
       
 @endsection
