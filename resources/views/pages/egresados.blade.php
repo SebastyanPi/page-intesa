@@ -44,11 +44,11 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-3 mb-4 d-none">
+                        <div class="col-lg-3 mb-4">
                             <div class="blog-item position-relative overflow-hidden rounded mb-2">
-                                <img class="img-fluid" src="{{ env('APP_URL') }}img/c_ms.png" alt="">
+                                <img class="img-fluid" src="{{ env('APP_URL') }}img/egresados/4.jpg" alt="">
                                 <a class="blog-overlay text-decoration-none" href="">
-                                    <h5 class="text-white mb-3">Mega-seguros </h5>
+                                    <h5 class="text-white mb-3"></h5>
                                 </a>
                             </div>
                         </div>
