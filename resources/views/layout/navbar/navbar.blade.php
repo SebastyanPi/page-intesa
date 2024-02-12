@@ -43,7 +43,7 @@
                                     <a href="{{ route('pages.quienes_somos') }}" class="dropdown-item">¿Quienes Somos?</a>
                                     <a href="{{ route('pages.mision_vision') }}" class="dropdown-item">Misión & Visión</a>
                                     <a href="{{ route('pages.convenios') }}" class="dropdown-item">Convenios</a>
-                                    <a href="{{ route('pages.egresados') }}" class="dropdown-item">Egresados</a>
+                                    <a href="{{ route('pages.egresados') }}" class="dropdown-item">Éxito Académico</a>
                                 </div>
                             </div>
 

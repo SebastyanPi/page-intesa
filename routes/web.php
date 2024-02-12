@@ -22,7 +22,7 @@ Route::get('/legalidad', [PageController::class, 'Legalidad'])->name('pages.lega
 Route::get('/convenios', [PageController::class, 'Convenios'])->name('pages.convenios');
 Route::get('/contactos', [PageController::class, 'Contactos'])->name('pages.contactos');
 Route::get('/historia', [PageController::class, 'Historia'])->name('pages.historia');
-Route::get('/egresados', [PageController::class, 'Egresados'])->name('pages.egresados');
+Route::get('/exito-academico', [PageController::class, 'Egresados'])->name('pages.egresados');
 Route::get('/programa-presencial/tecnicos-laborales', [PageController::class, 'Tecnico_Presencial'])->name('pages.presencial.tecnico');
 Route::get('/programa-presencial/certficaciones', [PageController::class, 'Curso_Presencial'])->name('pages.presencial.curso');
 Route::get('/programa-presencial/diplomados', [PageController::class, 'Diplomados'])->name('pages.presencial.diplomados');
