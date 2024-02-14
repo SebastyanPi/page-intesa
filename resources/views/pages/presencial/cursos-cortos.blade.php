@@ -18,7 +18,7 @@
                         <h2 class="mb-0">
                           <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
 
-                            <i class="fas fa-bookmark"></i> Cursos Administrativos
+                            <i class="fas fa-bookmark"></i> Cursos Administrativos  <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                           </button>
                         </h2>
                       </div>
@@ -108,7 +108,7 @@
                       <div class="card-header" id="headingTwo">
                         <h2 class="mb-0">
                           <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <i class="fas fa-bookmark"></i> Cursos de Seguridad Laboral
+                            <i class="fas fa-bookmark"></i> Cursos de Seguridad Laboral <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                           </button>
                         </h2>
                       </div>
@@ -181,7 +181,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                <i class="fas fa-bookmark"></i> Cursos de Mecanica Automotriz
+                                <i class="fas fa-bookmark"></i> Cursos de Mecanica Automotriz <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                             </button>
                           </h2>
                         </div>
@@ -248,7 +248,7 @@
                       <div class="card-header" id="headingThree">
                         <h2 class="mb-0">
                           <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <i class="fas fa-bookmark"></i> Cursos de Logistica
+                            <i class="fas fa-bookmark"></i> Cursos de Logistica <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                           </button>
                         </h2>
                       </div>
@@ -300,7 +300,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                <i class="fas fa-bookmark"></i> Cursos de Pedagogia Infantil
+                                <i class="fas fa-bookmark"></i> Cursos de Pedagogia Infantil <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                             </button>
                           </h2>
                         </div>
@@ -398,7 +398,7 @@
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                              <i class="fas fa-bookmark"></i> Cursos de Maquinaria Pesada
+                              <i class="fas fa-bookmark"></i> Cursos de Maquinaria Pesada <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                             </button>
                           </h2>
                         </div>
@@ -446,7 +446,7 @@
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse30" aria-expanded="true" aria-controls="collapse30">
-                              <i class="fas fa-bookmark"></i> Cursos de Recursos Humanos
+                              <i class="fas fa-bookmark"></i> Cursos de Recursos Humanos <b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b>
                             </button>
                           </h2>
                         </div>
