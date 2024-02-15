@@ -154,6 +154,63 @@
                       </div>
 
 
+                      <div class="card">
+                        <div class="card-header" id="headingTwo">
+                          <h2 class="mb-0">
+                            <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapse03" aria-expanded="false" aria-controls="collapse10">
+                            <i class="fas fa-bookmark"></i> Talento Humano 
+                            </button>
+                          </h2>
+                        </div>
+                        <div id="collapse03" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <img src="{{ env('APP_URL') }}img/dpi.png" width="100%" alt=""> <br>
+
+                                <p class="text-justify mt-2">
+                                    <b>Perfil Profesional : </b>
+                                    <span >
+                                      El egresado posee una combinación única de habilidades y competencias que le permitan gestionar eficazmente el recurso más valioso de una organización: su capital humano. La capacidad para reclutar y seleccionar talento excepcional, así como para desarrollar estrategias de retención y promoción del personal, son fundamentales. Además, la empatía y habilidades de comunicación efectiva son esenciales para fomentar un ambiente laboral positivo y resolver conflictos. La comprensión profunda de las leyes laborales y la ética en la gestión de recursos humanos también son críticas para asegurar el cumplimiento normativo y promover un entorno de trabajo justo y equitativo. Un profesional en talento humano exitoso debe ser proactivo, adaptarse a los cambios rápidos del entorno laboral, y tener una visión estratégica que contribuya al éxito a largo plazo de la organización.
+                                    </span>
+                                </p>
+    
+                                <p>
+                                    <b>Intensidad : </b>
+                                    <span>120 horas</span>
+                                </p>
+
+                                <p>
+                                  <b>Duración : </b>
+                                  <span>5 Semanas</span>
+                              </p>
+
+                              <p>
+                                <b>Horario : </b>
+                                <span>Lunes a viernes 2:00pm a 6:00pm</span>
+                              </p>
+    
+                                <p>
+                                    <b>Sistema de Pago : </b>
+                                    <span>De Contado o por cuotas (Mensuales, Quincenales, Semanales)</span>
+                                </p>
+    
+                                <p>
+                                    <b>Requisito : </b>
+                                    <span> <br>
+                                        - Fotocopia de la Cedula <br>
+                                        - Certificado de Tecnico, Tecnologo o Profesional
+                                    </span>
+                                </p>
+    
+                                <p>
+                                    <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                </p>
+    
+                               
+                            </div>
+                        </div>
+                      </div>
+
+
                 
 
                    

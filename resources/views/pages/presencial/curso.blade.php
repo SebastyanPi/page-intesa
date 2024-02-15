@@ -165,15 +165,30 @@
                               <p class="text-justify mt-2">
                                   <b>Perfil Profesional : </b>
                                   <span >
-                                      El profesional en talento humano, desempeña un papel crucial en las organizaciones al gestionar diversas funciones relacionadas con el personal. Esto incluye la contratación y selección de empleados, el desarrollo y la capacitación continua, la evaluación del desempeño, la gestión del rendimiento y la administración de aspectos como la compensación y los beneficios. El talento humano trabaja para cultivar un entorno laboral positivo, asegurar el crecimiento y desarrollo de los empleados, y contribuir al éxito general de la empresa a través de la gestión efectiva de su capital humano.
+                                      El profesional egresado cuenta con una serie de competencias cruciales para garantizar una gestión eficiente y efectiva de los recursos de almacenamiento en una organización. Destrezas en la planificación y optimización de espacios de almacenamiento, así como en la implementación de sistemas y tecnologías de gestión de inventarios, son esenciales para maximizar la eficiencia operativa. Además, habilidades en la coordinación de la recepción, almacenamiento y distribución de productos son fundamentales para asegurar un flujo fluido de bienes. 
                                   </span>
                               </p>
+
+                              <p>
+                                <b>Virtual : </b>
+                                <span>Sincronico</span>
+                            </p>
+
+                            <p>
+                                <b>Intensidad : </b>
+                                <span>120 horas</span>
+                            </p>
   
                             
                               <p>
                                   <b>Duración : </b>
-                                  <span>4 Meses</span>
+                                  <span>3 Meses</span>
                               </p>
+
+                              <p>
+                                <b>Horario : </b>
+                                <span>Lunes a viernes 6:30 pm a 8:30pm</span>
+                            </p>
   
                              
   
@@ -251,6 +266,63 @@
     
                                
                             </div>
+                        </div>
+                      </div>
+
+
+                      <div class="card">
+                        <div class="card-header" id="headingThree00">
+                          <h2 class="mb-0">
+                            <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree04" aria-expanded="false" aria-controls="collapseThree">
+                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Pedagogia Infantil
+                            </button>
+                          </h2>
+                        </div>
+                        <div id="collapseThree04" class="collapse" aria-labelledby="headingThree00" data-parent="#accordionExample">
+                          <div class="card-body">
+                       
+                              <p class="text-justify mt-2">
+                                  <b>Perfil Profesional : </b>
+                                  <span >
+                                      El profesional egresado posee una gama diversa de competencias para fomentar un entorno educativo que favorezca el desarrollo integral de los niños. La habilidad para diseñar y adaptar programas educativos estimulantes, centrados en el aprendizaje activo y lúdico, es fundamental. La empatía y sensibilidad para comprender las necesidades individuales de cada niño, así como la capacidad para fomentar un ambiente inclusivo y respetuoso, son esenciales. Además, la comunicación efectiva con los padres y colegas, junto con la capacidad para evaluar el progreso de los niños y ajustar estrategias pedagógicas en consecuencia, contribuyen a un desarrollo infantil óptimo. La creatividad y la paciencia son virtudes clave para abordar los desafíos educativos de manera innovadora y mantener un enfoque positivo en el proceso de enseñanza-aprendizaje. 
+                                  </span>
+                              </p>
+
+                              <p>
+                                <b>Virtual : </b>
+                                <span>En Linea</span>
+                            </p>
+                        
+                              <p>
+                                  <b>Duración : </b>
+                                  <span>4 Meses</span>
+                              </p>
+
+                              <p>
+                                <b>Horario : </b>
+                                <span>Lunes y viernes de 7pm a 9pm.</span>
+                            </p>
+  
+                            
+                              <p>
+                                  <b>Sistema de Pago : </b>
+                                  <span>De Contado o por cuotas (Mensuales, Quincenales, Semanales)</span>
+                              </p>
+  
+                              <p>
+                                  <b>Requisito : </b>
+                                  <span> <br>
+                                      - Fotocopia de la Cedula <br>
+                                      - Estar cursando secundaria
+                                  </span>
+                              </p>
+  
+                              <p>
+                                  <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                              </p>
+  
+                             
+                          </div>
                         </div>
                       </div>
 
