@@ -12,7 +12,7 @@
       <div class="container-fluid ">
         <div class="container py-2">
             <h4 class="mb-5">Éxito Académico</h4>
-            <p>A continuación, se en</p>
+            <p>Empresas donde laboran nuestros <b> egresados</b>.</p>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row pb-3">
