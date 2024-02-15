@@ -164,7 +164,7 @@
                         </div>
                         <div id="collapse03" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                             <div class="card-body">
-                                <img src="{{ env('APP_URL') }}img/dpi.png" width="100%" alt=""> <br>
+                                <img src="{{ env('APP_URL') }}img/di_ta.png" width="100%" alt=""> <br>
 
                                 <p class="text-justify mt-2">
                                     <b>Perfil Profesional : </b>
