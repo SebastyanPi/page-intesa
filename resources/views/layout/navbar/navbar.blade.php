@@ -74,7 +74,9 @@
                             <a href="{{ route('pages.contactos') }}" class="nav-item nav-link">Contactos</a>
 
                         </div>
-                        <a class="btn btn-primary py-2 px-4 ml-auto d-none d-lg-block" href="https://campus.institutointesa.edu.co/"><i class="fas fa-door-open"></i> Campus</a>
+
+                        <a class="btn btn-primary py-2 px-2 ml-auto d-none d-lg-block" href="https://campus.institutointesa.edu.co/"><i class="fas fa-door-open"></i> Campus</a>
+                        <a class="btn btn-n-primary py-2 px-2 ml-auto d-none d-lg-block bg-n-verde-01 text-white " href="https://wa.me/573104962668"><i class="fab fa-lg  fa-whatsapp"></i> Contactar</a>
                     </div>
                 </nav>
 
