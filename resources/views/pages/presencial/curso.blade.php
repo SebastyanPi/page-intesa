@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-12 mb-5">
                 <div class="accordion" id="accordionExample">
-                    <div class="card">
+                    <div class="card d-none">
                         <div class="card-header" id="headingOne2">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse17" aria-expanded="true" aria-controls="collapse1">
