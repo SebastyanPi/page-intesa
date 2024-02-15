@@ -192,48 +192,35 @@
                                     <tbody>
     
                                         <tr >
-                                            <td class="d-flex justify-content-between" ><span><b>Curso.</b> Sistema de alimentación del motor </span> <a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary text-left"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between" ><span><b>Curso.</b> Sistema de alimentación, encendido y refrigeración del motor </span> <a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary text-left"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de encendido del motor </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de lubricación, transmisión y frenos </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
     
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de refrigeracion del motor</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Dirección, suspensión y sistema hidraulico</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
     
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de lubricación del motor</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema Electrico</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
     
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de transmisión del vehiculo</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Electronica e Inyección electronica</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
     
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de frenos del vehiculo</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Equipos de Diagnostico</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
     
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de electricidad del vehiculo</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Fallas de todos los sistemas & fallas del motor (OBD2)</span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
     
                                         <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de dirección del vehiculo </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
+                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Mantenimiento Preventivo, Mantenimiento Correctivo & Mantenimiento Programado </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
                                         </tr>
-    
-                                        <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de suspensión del vehiculo </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
-                                        </tr>
-    
-                                        <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema Hidraulico del Vehiculo </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
-                                        </tr>
-    
-                                        <tr>
-                                            <td class="d-flex justify-content-between"> <span> <b>Curso.</b> Sistema de Inyección Electronica </span><a href="https://wa.link/3tnkbi" class="btn btn-sm btn-outline-primary"> Información <i class="fas fa-arrow-right"></i></a></td>
-                                        </tr>
-    
                                    
                                     </tbody>
                                 </table>
@@ -300,7 +287,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                <i class="fas fa-bookmark"></i> Cursos de Pedagogia Infantil <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
+                                <i class="fas fa-bookmark"></i> Cursos en Primera Infancia <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>

@@ -151,6 +151,54 @@
                       </div>
                     </div>
 
+                    <div class="card">
+                        <div class="card-header" id="headingThree00">
+                          <h2 class="mb-0">
+                            <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree01" aria-expanded="false" aria-controls="collapseThree">
+                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Logística de Almacenamiento
+                            </button>
+                          </h2>
+                        </div>
+                        <div id="collapseThree01" class="collapse" aria-labelledby="headingThree00" data-parent="#accordionExample">
+                          <div class="card-body">
+                       
+                              <p class="text-justify mt-2">
+                                  <b>Perfil Profesional : </b>
+                                  <span >
+                                      El profesional en talento humano, desempeña un papel crucial en las organizaciones al gestionar diversas funciones relacionadas con el personal. Esto incluye la contratación y selección de empleados, el desarrollo y la capacitación continua, la evaluación del desempeño, la gestión del rendimiento y la administración de aspectos como la compensación y los beneficios. El talento humano trabaja para cultivar un entorno laboral positivo, asegurar el crecimiento y desarrollo de los empleados, y contribuir al éxito general de la empresa a través de la gestión efectiva de su capital humano.
+                                  </span>
+                              </p>
+  
+                            
+                              <p>
+                                  <b>Duración : </b>
+                                  <span>4 Meses</span>
+                              </p>
+  
+                             
+  
+                              <p>
+                                  <b>Sistema de Pago : </b>
+                                  <span>De Contado o por cuotas (Mensuales, Quincenales, Semanales)</span>
+                              </p>
+  
+                              <p>
+                                  <b>Requisito : </b>
+                                  <span> <br>
+                                      - Fotocopia de la Cedula <br>
+                                      - Estar cursando secundaria
+                                  </span>
+                              </p>
+  
+                              <p>
+                                  <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                              </p>
+  
+                             
+                          </div>
+                        </div>
+                      </div>
+
                       <div class="card">
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
@@ -224,20 +272,13 @@
                                 </span>
                             </p>
 
-                            <p>
-                                <b>Niveles : </b>
-                                <span> <br>
-                                    - Basico <br>
-                                    - Intermedio<br>
-                                    - Avanzado<br>
-                                </span>
-                            </p>
-
-
+                          
                             <p>
                                 <b>Duración : </b>
-                                <span>3 Meses</span>
+                                <span>4 Meses</span>
                             </p>
+
+                           
 
                             <p>
                                 <b>Sistema de Pago : </b>
