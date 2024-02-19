@@ -18,7 +18,7 @@
                         <h2 class="mb-0">
                           <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
 
-                            <i class="fas fa-bookmark"></i> Sistema Seguridad y salud en en trabajo (SGSST)
+                            <i class="fas fa-bookmark"></i> Sistema Seguridad y salud en en trabajo (SGSST) <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -63,7 +63,7 @@
                       <div class="card-header" id="headingTwo">
                         <h2 class="mb-0">
                           <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <i class="fas fa-bookmark"></i> Inyección electrónica
+                            <i class="fas fa-bookmark"></i> Inyección electrónica <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -108,7 +108,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                            <i class="fas fa-bookmark"></i> Pedagogia Infantil 
+                            <i class="fas fa-bookmark"></i> Pedagogia Infantil  <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -158,7 +158,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapse03" aria-expanded="false" aria-controls="collapse10">
-                            <i class="fas fa-bookmark"></i> Talento Humano 
+                            <i class="fas fa-bookmark"></i> Talento Humano  <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -226,7 +226,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark collapsed" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                <i class="fas fa-bookmark"></i> Necesidades educativa especiales en el aula regular
+                                <i class="fas fa-bookmark"></i> Necesidades educativa especiales en el aula regular <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
 
                             </button>
                           </h2>
@@ -273,7 +273,7 @@
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                              <i class="fas fa-bookmark"></i> Supervisor de patios
+                              <i class="fas fa-bookmark"></i> Supervisor de patios <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -320,7 +320,7 @@
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse0" aria-expanded="true" aria-controls="collapse0">
-                              <i class="fas fa-bookmark"></i> Topografía
+                              <i class="fas fa-bookmark"></i> Topografía <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>

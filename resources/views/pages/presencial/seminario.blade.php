@@ -18,7 +18,7 @@
                         <h2 class="mb-0">
                           <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
 
-                            <i class="fas fa-bookmark"></i> Trabajo en Alturas
+                            <i class="fas fa-bookmark"></i> Trabajo en Alturas <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -63,7 +63,7 @@
                       <div class="card-header" id="headingTwo">
                         <h2 class="mb-0">
                           <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <i class="fas fa-bookmark"></i> Primeros Auxilios
+                            <i class="fas fa-bookmark"></i> Primeros Auxilios <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -108,7 +108,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                            <i class="fas fa-bookmark"></i> Plan de Emergencia
+                            <i class="fas fa-bookmark"></i> Plan de Emergencia <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -169,7 +169,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                <i class="fas fa-bookmark"></i> Contratación de personal
+                                <i class="fas fa-bookmark"></i> Contratación de personal <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
 
                             </button>
                           </h2>
@@ -216,7 +216,7 @@
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                              <i class="fas fa-bookmark"></i> Pedagogía infantil
+                              <i class="fas fa-bookmark"></i> Pedagogía infantil <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -263,7 +263,7 @@
                         <div class="card-header" id="headingOne">
                           <h2 class="mb-0">
                             <button class="btn btn-link text-dark" type="button" data-toggle="collapse" data-target="#collapse0" aria-expanded="true" aria-controls="collapse0">
-                              <i class="fas fa-bookmark"></i> Mecánica Básica
+                              <i class="fas fa-bookmark"></i> Mecánica Básica <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
