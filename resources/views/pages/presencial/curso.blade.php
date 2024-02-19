@@ -99,7 +99,7 @@
                             </p>
 
                             <p>
-                                <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                             </p>
 
                            
@@ -143,7 +143,7 @@
                             </p>
 
                             <p>
-                                <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                             </p>
 
                            
@@ -206,7 +206,7 @@
                               </p>
   
                               <p>
-                                  <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                  <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                               </p>
   
                              
@@ -261,7 +261,7 @@
                                 </p>
     
                                 <p>
-                                    <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                    <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                                 </p>
     
                                
@@ -318,7 +318,7 @@
                               </p>
   
                               <p>
-                                  <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                  <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                               </p>
   
                              
@@ -366,7 +366,7 @@
                             </p>
 
                             <p>
-                                <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                             </p>
 
                            
@@ -413,7 +413,7 @@
                               </p>
   
                               <p>
-                                  <button class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</button>
+                                  <a href="https://wa.link/lzkxm6" class="btn bg-n-verde-01 text-white"><i class="fas fa-paper-plane"></i> Mayor Información</a>
                               </p>
   
                              
