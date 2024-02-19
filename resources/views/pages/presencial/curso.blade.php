@@ -65,7 +65,7 @@
                         <h2 class="mb-0">
                           <button class="btn btn-link text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
 
-                            <i class="fas fa-bookmark"></i> <b>Certificación en </b> Trazado y Desarrollo para Aislamiento Termicos
+                            <i class="fas fa-bookmark"></i> <b>Certificación en </b> Trazado y Desarrollo para Aislamiento Termicos <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -110,7 +110,7 @@
                       <div class="card-header" id="headingTwo">
                         <h2 class="mb-0">
                           <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                            <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Instalación de Aislamiento Termicos
+                            <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Instalación de Aislamiento Termicos <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -155,7 +155,7 @@
                         <div class="card-header" id="headingThree00">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree01" aria-expanded="false" aria-controls="collapseThree">
-                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Logística de Almacenamiento
+                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Logística de Almacenamiento <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -218,7 +218,7 @@
                         <div class="card-header" id="headingTwo">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Recubrimientos Industriales
+                                <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Recubrimientos Industriales <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -274,7 +274,7 @@
                         <div class="card-header" id="headingThree00">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree04" aria-expanded="false" aria-controls="collapseThree">
-                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Pedagogia Infantil
+                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Pedagogia Infantil <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
@@ -330,7 +330,7 @@
                       <div class="card-header" id="headingThree">
                         <h2 class="mb-0">
                           <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Talento Humano
+                            <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Talento Humano <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                           </button>
                         </h2>
                       </div>
@@ -379,7 +379,7 @@
                         <div class="card-header" id="headingThree">
                           <h2 class="mb-0">
                             <button class="btn btn-link collapsed text-dark text-left" type="button" data-toggle="collapse" data-target="#collapseThree1" aria-expanded="false" aria-controls="collapseThree">
-                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Ofimatica
+                              <i class="fas fa-bookmark"></i> <b>Certificación en</b>  Ofimatica  <small><b class="text-primary"> (Click para ver mas <i class="fas fa-arrow-circle-down"></i> )</b></small>
                             </button>
                           </h2>
                         </div>
