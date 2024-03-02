@@ -22,7 +22,7 @@
                                     </div>
                                 </div>
                                 <div class="bg-secondary p-4">
-                                    <h5>Examen Preicfes</h5>
+                                    <h5>Prepárate para las icfes!</h5>
                                     <p class="m-0"><a href="https://presaber.institutointesa.edu.co/" class="btn btn-primary btn-sm">Mas información!</button></a></p>
                                 </div>
                             </div>

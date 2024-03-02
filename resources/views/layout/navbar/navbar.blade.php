@@ -66,6 +66,7 @@
                                     <a href="{{ route('pages.presencial.diplomados') }}" class="dropdown-item">Diplomados</a>
                                     <a href="{{ route('pages.presencial.seminarios') }}" class="dropdown-item">Seminarios</a>
                                     <a href="{{ route('pages.presencial.cortos') }}" class="dropdown-item">Cursos Presenciales</a>
+                                    <a href="https://presaber.institutointesa.edu.co/" class="dropdown-item">Preicfes</a>
                                   
                                 </div>
                             </div>
