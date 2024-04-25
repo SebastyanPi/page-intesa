@@ -24,7 +24,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row pb-3">
-                        
 
                         <div class="col-lg-3 mb-4">
                             <div class="blog-item position-relative overflow-hidden rounded mb-2">
@@ -151,6 +150,42 @@
                                 <img class="img-fluid" src="{{ env('APP_URL') }}img/c_pg.png" alt="">
                                 <a class="blog-overlay text-decoration-none" href="{{ route('pages.presencial.tecnico.operador') }}">
                                     <h5 class="text-white mb-3">UDS Pequeños Gigantes </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 mb-4">
+                            <div class="blog-item position-relative overflow-hidden rounded mb-2">
+                                <img class="img-fluid" src="{{ env('APP_URL') }}img/delicias.jpg" alt="">
+                                <a class="blog-overlay text-decoration-none" href="{{ route('pages.presencial.tecnico.auxadmin') }}">
+                                    <h5 class="text-white mb-3">Delicias</h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 mb-4">
+                            <div class="blog-item position-relative overflow-hidden rounded mb-2">
+                                <img class="img-fluid" src="{{ env('APP_URL') }}img/multinsa.jpg" alt="">
+                                <a class="blog-overlay text-decoration-none" href="{{ route('pages.presencial.tecnico.auxadmin') }}">
+                                    <h5 class="text-white mb-3">Multinsa</h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 mb-4">
+                            <div class="blog-item position-relative overflow-hidden rounded mb-2">
+                                <img class="img-fluid" src="{{ env('APP_URL') }}img/argos.jpg" alt="">
+                                <a class="blog-overlay text-decoration-none" href="{{ route('pages.presencial.tecnico.auxadmin') }}">
+                                    <h5 class="text-white mb-3">Argos </h5>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 mb-4">
+                            <div class="blog-item position-relative overflow-hidden rounded mb-2">
+                                <img class="img-fluid" src="{{ env('APP_URL') }}img/templo.jpg" alt="">
+                                <a class="blog-overlay text-decoration-none" href="{{ route('pages.presencial.tecnico.auxadmin') }}">
+                                    <h5 class="text-white mb-3">Templo de la Moda </h5>
                                 </a>
                             </div>
                         </div>
