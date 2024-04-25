@@ -40,7 +40,14 @@
 
     <link href="{{ $URL }}assets/css/app.css" rel="stylesheet">
 
-    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+    <!--
+    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>-->
+    
+
+    <link href="{{ $URL }}assets/css/all.css" rel="stylesheet">
+
+    <script src="{{ $URL }}assets/js/all.js" crossorigin="anonymous"></script>
+
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 </head>
 
